@@ -1,7 +1,3 @@
----
-sidebar_position: 6
----
-
 # Party Mix
 
 ![Party Mix](img/browsePartyMixSongs.png)

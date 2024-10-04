@@ -1,7 +1,3 @@
----
-sidebar_position: 3
----
-
 # Mini Player
 
 ![Mini Player](img/miniPlayer.png)

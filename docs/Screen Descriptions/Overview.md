@@ -1,7 +1,3 @@
----
-sidebar_position: 1
----
-
 # Overview
 
 Most of the screens presented in this section showcase the app in a landscape form factor. While the core features remain consistent across all devices, you may notice slight variations in layout when using different form factors. These layout differences are purely visual and should not impact the functionality described.

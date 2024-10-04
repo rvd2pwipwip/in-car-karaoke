@@ -1,7 +1,3 @@
----
-sidebar_position: 8
----
-
 # Song Queue
 
 ## Song Queue Display Behavior

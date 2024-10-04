@@ -1,7 +1,3 @@
----
-sidebar_position: 5
----
-
 # Song Info
 
 ![Song Info](img/songInfo.png)
