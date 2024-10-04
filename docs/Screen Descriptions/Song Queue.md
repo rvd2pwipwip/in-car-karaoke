@@ -3,7 +3,7 @@
 ## Song Queue Display Behavior
 The Song Queue can be accessed by clicking the Song Queue button on the Player Screen. The Song Queue button will switch to a close button so the Song Queue can be dismissed after it is displayed. The display behavior of the Song Queue adapts based on the screen's form factor to ensure an optimal user experience.
 
-![Song Queue](img/songQueueFormFactors.png)
+![Song Queue](./img/songQueueFormFactors.png)
 
 #### Portrait Mode (Vertical) or Small Screens: 
 In portrait mode or when the screen size is too small, the Song Queue will be displayed as an overlay on top of the Player Screen. This approach maximizes the use of available space while still providing easy access to the Song Queue.
@@ -17,7 +17,7 @@ By adapting the display method based on the screen orientation and size, the app
 
 ## Song Queue
 
-![Song Queue](img/songQueue.png)
+![Song Queue](./img/songQueue.png)
 
 |   # | Description                                                                        |
 | --: | :--------------------------------------------------------------------------------- |
@@ -34,14 +34,14 @@ By adapting the display method based on the screen orientation and size, the app
 
 :::note
 
-- Users have access to the song queue from the full screen [player](/docs/Screen%20Descriptions/Player.md) so they can manage it without interrupting the experience
+- Users have access to the song queue from the full screen [player](./Player.md) so they can manage it without interrupting the experience
 - All Player functionalities are accessible while the Song Queue panel is expanded
 
 :::
 
 ## Queued Song Options
 
-![Queued Song Options](img/queuedSongOptions.png)
+![Queued Song Options](./img/queuedSongOptions.png)
 
 |   # | Description                                                             |
 | --: | :---------------------------------------------------------------------- |
@@ -58,7 +58,7 @@ By adapting the display method based on the screen orientation and size, the app
 
 ## Search and Browse Panel
 
-![Search and Browse Panel](img/addSongToQueue.png)
+![Search and Browse Panel](./img/addSongToQueue.png)
 
 |   # | Description                                                        |
 | --: | :----------------------------------------------------------------- |
@@ -77,7 +77,7 @@ By adapting the display method based on the screen orientation and size, the app
 
 ## Browse Category Panel
 
-![Browse Category Panel](img/browseCategory.png)
+![Browse Category Panel](./img/browseCategory.png)
 
 |   # | Description                                                                               |
 | --: | :---------------------------------------------------------------------------------------- |
@@ -95,7 +95,7 @@ By adapting the display method based on the screen orientation and size, the app
 
 ## Add Song Options
 
-![Add Song Options](img/addSongOptions.png)
+![Add Song Options](./img/addSongOptions.png)
 
 |   # | Description                                                                |
 | --: | :------------------------------------------------------------------------- |
@@ -115,7 +115,7 @@ By adapting the display method based on the screen orientation and size, the app
 
 ## Search Results Panel
 
-![Search Results Panel](img/search.png)
+![Search Results Panel](./img/search.png)
 
 |   # | Description                                                               |
 | --: | :------------------------------------------------------------------------ |
@@ -138,7 +138,7 @@ By adapting the display method based on the screen orientation and size, the app
 
 ## More Search Results
 
-![More Search Results](img/moreSearchResults.png)
+![More Search Results](./img/moreSearchResults.png)
 
 |   # | Description                                                          |
 | --: | :------------------------------------------------------------------- |
@@ -150,7 +150,7 @@ By adapting the display method based on the screen orientation and size, the app
 
 ## Empty Song Queue
 
-![Empty Song Queue](img/emptySongQueue.png)
+![Empty Song Queue](./img/emptySongQueue.png)
 
 |   # | Description                                                                                                 |
 | --: | :---------------------------------------------------------------------------------------------------------- |

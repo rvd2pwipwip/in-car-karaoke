@@ -2,17 +2,17 @@
 
 ## Sing Now
 
-![Songs](/img/singNow.svg)
+![Sing Now](@site/static/img/singNow.svg)
 
 ## Sing Next
 
-![Songs](/img/singNext.svg)
+![Sing Next](@site/static/img/singNext.svg)
 
 ## Sing Last
 
-![Songs](/img/singLast.svg)
+![Sing Last](@site/static/img/singLast.svg)
 
 ## Sing All Songs
 
-![Songs](/img/singAllFlowchart.svg)
+![Sing All Songs](@site/static/img/singAllFlowchart.svg)
 

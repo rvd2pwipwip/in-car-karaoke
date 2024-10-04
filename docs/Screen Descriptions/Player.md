@@ -2,13 +2,13 @@
 
 ## Active State (Controls Display)
 
-![Player](img/player.png)
+![Player](./img/player.png)
 
 |   # | Description                                                                                                                                 |
 | --: | :------------------------------------------------------------------------------------------------------------------------------------------ |
-|   1 | Player collapse button, click to minimize the full screen player to its [mini player](/docs/Screen%20Descriptions/Mini%20Player) version |
+|   1 | Player collapse button, click to minimize the full screen player to its [mini player](./Mini%20Player.md) version |
 |   2 | Current song TTA info display                                                                                                               |
-|   3 | [Song Queue](/docs/Screen%20Descriptions/Song%20Queue) button, click to display current song queue in side drawer                        |
+|   3 | [Song Queue](./Song%20Queue.md) button, click to display current song queue in side drawer                        |
 |   4 | Song lyrics                                                                                                                                 |
 |   5 | Passenger button, click to display the Passenger app [QR code dialog](#passenger-app-dialog)                                                |
 |   6 | Video Background toggle button, click to toggle between video backgrounds and [lyrics on black](#lyrics-on-black)                           |
@@ -28,21 +28,21 @@ The Video Background toggle button (6) has been deprecated on later app versions
 
 :::tip
 
-- Users have access to the [Song Queue](/docs/Screen%20Descriptions/Song%20Queue) (3) from the full screen player so they can manage it without interrupting the experience
+- Users have access to the [Song Queue](./Song%20Queue.md) (3) from the full screen player so they can manage it without interrupting the experience
 
 :::
 
 :::note
 
 - The Passenger button (5) displays the passenger app [QR code dialog](#passenger-app-dialog)
-- The full screen player can be collapsed (1) to the [Mini Player](/docs/Screen%20Descriptions/Mini%20Player) , enabling navigation within the app without playback interruption
+- The full screen player can be collapsed (1) to the [Mini Player](./Mini%20Player.md) , enabling navigation within the app without playback interruption
 - Player controls and other UI elements fade out after 3 seconds of [idle](#idle-state-controls-auto-hide) time; they fade back in with a click anywhere on the player screen
 
 :::
 
 ## Passenger App Dialog
 
-![Passenger App Dialog](img/passengerAppDialog.png)
+![Passenger App Dialog](./img/passengerAppDialog.png)
 
 |   # | Description                                       |
 | --: | :------------------------------------------------ |
@@ -58,7 +58,7 @@ The Video Background toggle button (6) has been deprecated on later app versions
 
 ## Idle State (Controls Auto Hide)
 
-![Idle State](img/idleState.png)
+![Idle State](./img/idleState.png)
 
 |   # | Description |
 | --: | :---------- |
@@ -84,7 +84,7 @@ Lyrics on Black (6) has been deprecated on later app versions
 
 :::
 
-![Lyrics on Black](img/lyricsOnBlack.png)
+![Lyrics on Black](./img/lyricsOnBlack.png)
 
 :::note
 
@@ -94,12 +94,12 @@ Lyrics on Black (6) has been deprecated on later app versions
 
 ## Empty Song Queue
 
-![Empty Song Queue](img/emptyQueue.png)
+![Empty Song Queue](./img/emptyQueue.png)
 
 |   # | Description                                                                                                                                 |
 | --: | :------------------------------------------------------------------------------------------------------------------------------------------ |
-|   1 | Player collapse button, click to minimize the full screen player to its [mini player](/docs/Screen%20Descriptions/Mini%20Player.md) version |
-|   2 | Song Queue button, click to display current [song queue](/docs/Screen%20Descriptions/Song%20Queue.md) in side drawer                        |
+|   1 | Player collapse button, click to minimize the full screen player to its [mini player](./Mini%20Player.md) version |
+|   2 | Song Queue button, click to display current [song queue](./Song%20Queue.md) in side drawer                        |
 |   3 | Pick songs prompt and illustration                                                                                                          |
 
 :::note

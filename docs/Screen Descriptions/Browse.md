@@ -2,7 +2,7 @@
 
 ## Songs
 
-![Songs](img/browseSongs.png)
+![Songs](./img/browseSongs.png)
 
 |   # | Description                                                 |
 | --: | :---------------------------------------------------------- |
@@ -22,7 +22,7 @@
 
 ## Genre Songs
 
-![Genre Songs](img/genreSongs.png)
+![Genre Songs](./img/genreSongs.png)
 
 |   # | Description                                               |
 | --: | :-------------------------------------------------------- |
@@ -33,7 +33,7 @@
 
 ## Artists
 
-![Artists](img/browseArtists.png)
+![Artists](./img/browseArtists.png)
 
 |   # | Description                                                 |
 | --: | :---------------------------------------------------------- |
@@ -53,7 +53,7 @@
 
 ## Genre Artists
 
-![Genre Artists](img/genreArtists.png)
+![Genre Artists](./img/genreArtists.png)
 
 |   # | Description                                                                  |
 | --: | :--------------------------------------------------------------------------- |
@@ -65,7 +65,7 @@
 
 ## Artist Songs
 
-![Artist Songs](img/browseArtistSongs.png)
+![Artist Songs](./img/browseArtistSongs.png)
 
 |   # | Description                                                         |
 | --: | :------------------------------------------------------------------ |
@@ -78,7 +78,7 @@
 
 ## Eras
 
-![Eras](img/browseEras.png)
+![Eras](./img/browseEras.png)
 
 |   # | Description                                                 |
 | --: | :---------------------------------------------------------- |
@@ -98,7 +98,7 @@
 
 ## Era Songs
 
-![Era Songs](img/eraSongs.png)
+![Era Songs](./img/eraSongs.png)
 
 |   # | Description                                               |
 | --: | :-------------------------------------------------------- |
@@ -109,7 +109,7 @@
 
 ## Languages
 
-![Languages](img/browseLanguages.png)
+![Languages](./img/browseLanguages.png)
 
 |   # | Description                                                 |
 | --: | :---------------------------------------------------------- |
@@ -129,7 +129,7 @@
 
 ## Language Songs
 
-![Language Songs](img/languageSongs.png)
+![Language Songs](./img/languageSongs.png)
 
 |   # | Description                                               |
 | --: | :-------------------------------------------------------- |

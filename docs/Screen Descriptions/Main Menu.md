@@ -5,9 +5,9 @@ The main menu is displayed as a vertical bar to the left or right side of the sc
 
 When displayed as a vertical bar, the main menu can be expanded by clicking on the burger menu icon to display the main menu icon labels.
 
-![Main Menu](img/menuFormFactors.png)
+![Main Menu](./img/menuFormFactors.png)
 
-![Main Menu](img/mainMenu.png)
+![Main Menu](./img/mainMenu.png)
 
 |   # | Description                                                        |
 | --: | :----------------------------------------------------------------- |

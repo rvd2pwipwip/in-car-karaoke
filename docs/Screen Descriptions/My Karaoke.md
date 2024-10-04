@@ -2,7 +2,7 @@
 
 ## App Info
 
-![My Karaoke](img/myKaraoke.png)
+![My Karaoke](./img/myKaraoke.png)
 
 | # | Description |
 | --: | :-- |
@@ -17,12 +17,12 @@
 :::info
 - Explicit songs will not be displayed when parental controls are ON unless they are in the **Sing it again** or **Favorites** categories where they will be displayed as a generic, unclickable, locked card without cover art nor labels.
 
-![Parental Controls](img/parentalControls.png)
+![Parental Controls](./img/parentalControls.png)
 :::
 
 ### FAQ
 
-![FAQ](img/faq.png)
+![FAQ](./img/faq.png)
 
 |   # | Description                                      |
 | --: | :----------------------------------------------- |
@@ -32,7 +32,7 @@
 
 ### Contact Us
 
-![Contact Us](img/contactUs.png)
+![Contact Us](./img/contactUs.png)
 
 |   # | Description                                      |
 | --: | :----------------------------------------------- |
@@ -42,7 +42,7 @@
 
 ### About
 
-![About](img/about.png)
+![About](./img/about.png)
 
 |   # | Description                                        |
 | --: | :------------------------------------------------- |
@@ -54,7 +54,7 @@
 
 ### Terms and Conditions
 
-![Terms and Conditions](img/termsAndConditions.png)
+![Terms and Conditions](./img/termsAndConditions.png)
 
 |   # | Description                                      |
 | --: | :----------------------------------------------- |
@@ -64,7 +64,7 @@
 
 ### Privacy Policy
 
-![Privacy Policy](img/privacyPolicy.png)
+![Privacy Policy](./img/privacyPolicy.png)
 
 |   # | Description                                      |
 | --: | :----------------------------------------------- |
@@ -74,23 +74,23 @@
 
 ## Sing it again
 
-![Sing it again](img/myKaraokeHistory.png)
+![Sing it again](./img/myKaraokeHistory.png)
 
 |   # | Description                                          |
 | --: | :--------------------------------------------------- |
 |   1 | Row category title                                   |
-|   2 | Previously played song card(s), from most recent to oldest, click to view [**Song Info**](Song%20Info.md)                         |
+|   2 | Previously played song card(s), from most recent to oldest, click to view [**Song Info**](./Song%20Info.md)                         |
 |   3 | Ghost card placeholder                               |
 |   4 | More button, click to view [**Sing it again**](#sing-it-again-more) grid screen |
 
 :::info
-- The Sing it again category is also displayed on the [**Home**](Home.md) screen if there is at least one song in the history
+- The Sing it again category is also displayed on the [**Home**](./Home.md) screen if there is at least one song in the history
 - The ghost card placeholders are replaced by song cards as the row is populated with more songs
 :::
 
 ### Sing it again, More
 
-![Sing it again, More](img/historyMore.png)
+![Sing it again, More](./img/historyMore.png)
 
 |   # | Description                                                     |
 | --: | :-------------------------------------------------------------- |
@@ -101,7 +101,7 @@
 
 ### Sing it again, Clear Dialog
 
-![Sing it again, Clear Dialog](img/historyClearDialog.png)
+![Sing it again, Clear Dialog](./img/historyClearDialog.png)
 
 |   # | Description                                   |
 | --: | :-------------------------------------------- |
@@ -110,18 +110,18 @@
 
 ### Sing it again, Empty
 
-![Sing it again, Empty](img/historyMoreEmpty.png)
+![Sing it again, Empty](./img/historyMoreEmpty.png)
 
 |   # | Description                                      |
 | --: | :----------------------------------------------- |
 |   1 | **Back** button, click to go back to previous screen |
 |   2 | Screen title                                     |
 |   3 | Empty song history message and image             |
-|   4 | **Pick a song** button, click to select from [Home](Home.md) screen    |
+|   4 | **Pick a song** button, click to select from [Home](./Home.md) screen    |
 
 ## Favorites
 
-![Favorites](img/myKaraokeFavorites.png)
+![Favorites](./img/myKaraokeFavorites.png)
 
 |   # | Description                                          |
 | --: | :--------------------------------------------------- |
@@ -132,7 +132,7 @@
 
 ### Favorites, More
 
-![Favorites, More](img/favoritesMore.png)
+![Favorites, More](./img/favoritesMore.png)
 
 |   # | Description                                                     |
 | --: | :-------------------------------------------------------------- |
@@ -143,7 +143,7 @@
 
 ### Favorites, Clear Dialog
 
-![Favorites, Clear Dialog](img/favoritesClearDialog.png)
+![Favorites, Clear Dialog](./img/favoritesClearDialog.png)
 
 |   # | Description                                   |
 | --: | :-------------------------------------------- |

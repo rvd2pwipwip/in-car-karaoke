@@ -2,7 +2,7 @@
 
 ## Search (no entered search query)
 
-![Search](img/searchMain.png)
+![Search](./img/searchMain.png)
 
 |   # | Description                                                 |
 | --: | :---------------------------------------------------------- |
@@ -22,7 +22,7 @@
 
 ## Search Results (entered search query)
 
-![Search](img/searchResultsMain.png)
+![Search](./img/searchResultsMain.png)
 
 |   # | Description                                                                                    |
 | --: | :--------------------------------------------------------------------------------------------- |
@@ -44,7 +44,7 @@
 
 ## Search Artist Results
 
-![Search Artist Results](img/artistResults.png)
+![Search Artist Results](./img/artistResults.png)
 
 |   # | Description                                                                                  |
 | --: | :------------------------------------------------------------------------------------------- |
@@ -64,7 +64,7 @@
 
 ## More Search Results
 
-![More Search Results](img/moreSearchResultsMain.png)
+![More Search Results](./img/moreSearchResultsMain.png)
 
 |   # | Description                                      |
 | --: | :----------------------------------------------- |
@@ -75,7 +75,7 @@
 
 ## Artist Songs
 
-![Artist Songs](img/artistSongs.png)
+![Artist Songs](./img/artistSongs.png)
 
 |   # | Description                                                         |
 | --: | :------------------------------------------------------------------ |
@@ -87,7 +87,7 @@
 
 ## No Results
 
-![No Results](img/noResults.png)
+![No Results](./img/noResults.png)
 
 |   # | Description                                         |
 | --: | :-------------------------------------------------- |

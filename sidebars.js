@@ -64,7 +64,6 @@ const sidebars = {
     'Appendix A - Safety Features',
     'Appendix B - The Song Queue',
     'Appendix C - Queue Flowcharts',
-    // 'Platform Features',
   ],
    
 };

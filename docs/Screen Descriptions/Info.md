@@ -2,13 +2,13 @@
 
 :::danger
 
-The Info main menu item only appears in earlier versions of the app. This menu item is deprecated for any subsequent versions of the app that include user history (Sing it again) and favorites. The Info main menu item is then superseded by [My Karaoke](/docs/Screen%20Descriptions/My%20Karaoke).
+The Info main menu item only appears in earlier versions of the app. This menu item is deprecated for any subsequent versions of the app that include user history (Sing it again) and favorites. The Info main menu item is then superseded by [My Karaoke](./My%20Karaoke.md).
 
 :::
 
 ## Info Menu
 
-![Info Menu](img/infoMenu.png)
+![Info Menu](./img/infoMenu.png)
 
 |   # | Description                                             |
 | --: | :------------------------------------------------------ |
@@ -16,7 +16,7 @@ The Info main menu item only appears in earlier versions of the app. This menu i
 
 ## FAQ
 
-![FAQ](img/faq.png)
+![FAQ](./img/faq.png)
 
 |   # | Description                                      |
 | --: | :----------------------------------------------- |
@@ -26,7 +26,7 @@ The Info main menu item only appears in earlier versions of the app. This menu i
 
 ## Contact Us
 
-![Contact Us](img/contactUs.png)
+![Contact Us](./img/contactUs.png)
 
 |   # | Description                                      |
 | --: | :----------------------------------------------- |
@@ -36,7 +36,7 @@ The Info main menu item only appears in earlier versions of the app. This menu i
 
 ## About
 
-![About](img/about.png)
+![About](./img/about.png)
 
 |   # | Description                                        |
 | --: | :------------------------------------------------- |
@@ -48,7 +48,7 @@ The Info main menu item only appears in earlier versions of the app. This menu i
 
 ## Terms and Conditions
 
-![Terms and Conditions](img/termsAndConditions.png)
+![Terms and Conditions](./img/termsAndConditions.png)
 
 |   # | Description                                      |
 | --: | :----------------------------------------------- |
@@ -58,7 +58,7 @@ The Info main menu item only appears in earlier versions of the app. This menu i
 
 ## Privacy Policy
 
-![Privacy Policy](img/privacyPolicy.png)
+![Privacy Policy](./img/privacyPolicy.png)
 
 |   # | Description                                      |
 | --: | :----------------------------------------------- |

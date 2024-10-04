@@ -33,19 +33,19 @@ When the app detects that the vehicle is in motion, it automatically limits acce
 - **Onscreen keyboard**
 - **Extensive browsing and navigation**
 
-![Safety Flowchart](/img/safetyLevel3HomePlayer.png)
+![Safety Flowchart](@site/static/img/safetyLevel3HomePlayer.png)
 
 ### Passenger
 The [**Passenger**](./Screen%20Descriptions/Passenger.md) main menu item, which shows a prominent QR code for accessing the [**Passenger App**](./Passenger%20App/Overview.md), will be disabled if no passengers are present in the vehicle.
 
 
-![Main Menu Passenger](/img/mainMenuPassenger.png)
+![Main Menu Passenger](@site/static/img/mainMenuPassenger.png)
 
 
 ### Search
 The [**Search**](./Screen%20Descriptions/Search.md) input field's onscreen keyboard is blocked if there are no passengers in the vehicle.
 
-![Search Keyboard](/img/searchOnscreenKbd.png)
+![Search Keyboard](@site/static/img/searchOnscreenKbd.png)
 
 ### Info
 Additionally, informational text screens are also restricted, such as:
@@ -53,7 +53,7 @@ Additionally, informational text screens are also restricted, such as:
 - **About**
 - **Contact Us**
 
-![Main Menu Info](/img/mainMenuInfo.png)
+![Main Menu Info](@site/static/img/mainMenuInfo.png)
 
 :::info
 If the vehicle is already moving and a passenger is detected, a dialog box will appear, prompting confirmation to switch the app from Lone Driver mode to Passenger mode, thereby enabling passenger features.

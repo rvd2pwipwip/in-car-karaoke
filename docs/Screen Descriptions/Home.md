@@ -1,6 +1,6 @@
 # Home
 
-![Home](img/home.png)
+![Home](./img/home.png)
 
 |   # | Description                                                                                                            |
 | --: | :--------------------------------------------------------------------------------------------------------------------- |
@@ -9,9 +9,9 @@
 |   2 | Category name, click to display more category content                                                                  |
 |   3 | More button, click to display more category content                                                                  |
 |     | **Song Card**                                                                                                          |
-|   4 | Song Card with thumbnail image, white title label and color (lavender) artist label, click to display [Song Info](/docs/Screen%20Descriptions/Song%20Info) screen |
+|   4 | Song Card with thumbnail image, white title label and color (lavender) artist label, click to display [Song Info](./Song%20Info.md) screen |
 |     | **Party Mix Card**                                                                                                     |
-|   5 | Party Mix card with thumbnail image, click to display [Party Mix](/docs/Screen%20Descriptions/Party%20Mix) |
+|   5 | Party Mix card with thumbnail image, click to display [Party Mix](./Party%20Mix.md) |
 
 <p>&nbsp;</p>
 
