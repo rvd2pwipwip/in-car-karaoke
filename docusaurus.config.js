@@ -82,7 +82,7 @@ const config = {
             items: [
               {
                 label: 'Documentation',
-                to: '/docs/LG%20Submission',
+                to: '/docs/introduction',
               },
             ],
           },
