@@ -1,5 +1,7 @@
 # Top Scores Row 
 
+![Top Scores Row](./img/myKaraokeTopScores.png)
+
 Top Scores are displayed in a tile row under My Karaoke. 
 
 The Top Score row displays ghost tiles, the first one being descriptive with an icon and a label. 

@@ -1,6 +1,8 @@
 # Final Score Display 
 When a scored song reaches the end, the Final Score Display is shown with each final score element building up to the final star rating verdict reflecting the graded performance. 
 
+![Final Score Display](./img/finalScoreDisplay.png)
+
 ## Song TTA
 The performed song's track title and artist, for context.
 

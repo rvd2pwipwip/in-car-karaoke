@@ -1,6 +1,8 @@
 # Overview
 
-Stingray Karaoke offers an engaging and interactive experience for users to sing along with their favorite songs using a connected microphone.  
+![Scoring Player](./img/scoringPlayer.png)
+
+Stingray Karaoke offers an engaging and interactive experience for users to sing along with their favorite songs using a connected or built-in microphone.  
 
 A standout feature of the app is its scorable songs, which include a visual pitch track of the main vocal melody that scrolls from right to left on the screen.  
 

@@ -2,6 +2,7 @@
 
 Clicking a scorable song will display its corresponding Song Info screen where users could view their highest score if they previously scored that song. 
 
+![Scorable Song Info](./img/scorableSongInfo.png)
 
 :::note
 

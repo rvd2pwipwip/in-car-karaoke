@@ -2,6 +2,8 @@
 
 Under their TTA metadata, Song Info screens for scorable songs display 5 empty stars for yet unperformed songs. 
 
+![Scorable Song Info](./img/scorableSongInfo.png)
+
 ## Top score 
 
 A more detailed display of the last top score is displayed for songs previously performed by users: 

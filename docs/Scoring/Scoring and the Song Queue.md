@@ -1,5 +1,7 @@
 # Scoring and the Song Queue 
 
+![Scoring Song Queue](./img/scoringPlayerQueue.png)
+
 On the score display screen, after a scorable song performance, users must select **Continue** or **Retry Song**. 
 
 Clicking **Retry Song** goes back to the start of the same song, staying on the same song queue position, with the countdown animation before the playback starts in score mode. 

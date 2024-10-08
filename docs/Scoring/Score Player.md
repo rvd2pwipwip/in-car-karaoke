@@ -1,5 +1,7 @@
 # Score Player 
 
+![Scoring Player](./img/scoringPlayer.png)
+
 ## Score Track 
 
 The Score Player is exclusively available for scorable songs, with a score track where the main lead vocal melody is presented as a dynamic graphic display of MIDI notes scrolling from right to left.  

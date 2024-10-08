@@ -18,11 +18,11 @@ Apart from notes filling up with pitch match, there are animations, single word 
 | **Multiplier 4**        | 1. "Legend!"<br/>2. "Epic!"<br/>3. "Unreal!"<br/>4. "Champion!"<br/>5. "Master!"<br/>6. "Flawless!"                                       |              |
 
 
-| % Score | Star Rating | Grade Comment |
-|---------|-------------|---------------|
-| **00+** | -           | 1. "Keep the Day Job Warm!"<br />2. "Room for Karaoke Growth!"<br />3. "A for Effort!"<br />4. "Practice Makes Perfect!"<br />5. "Karaoke Journey Begins!"<br />6. "Onward to Improvement!" |
-| **20+** | *           | 1. "Keep Practicing!"<br />2. "Nice Try!"<br />3. "Room for Improvement!"<br />4. "Give it Another Go!"<br />5. "Almost There!"<br />6. "Don't Give Up!" |
-| **40+** | **          | 1. "Good Effort!"<br />2. "Getting Better!"<br />3. "Keep Going!"<br />4. "On the Right Track!"<br />5. "Improving!"<br />6. "Not Bad!" |
-| **60+** | ***         | 1. "Well Done!"<br />2. "Solid Performance!"<br />3. "Nice Job!"<br />4. "Good Singing!"<br />5. "Keep It Up!"<br />6. "You're Improving!" |
-| **75+** | ****        | 1. "Great Performance!"<br />2. "Impressive!"<br />3. "You're Almost There!"<br />4. "Fantastic Effort!"<br />5. "Well Sung!"<br />6. "Excellent!" |
-| **90+** | *****       | 1. "Legendary Performance!"<br />2. "Unbelievably Amazing!"<br />3. "Karaoke Master!"<br />4. "Beyond Perfection!"<br />5. "Epic Brilliance!"<br />6. "Unmatched Talent!" |
+| % Score   | Star Rating | Grade Comment                                                                                                                                                       | Sound FX |
+|-----------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+| **00+**   | -           | 1. "Keep the Day Job Warm!"<br />2. "Room for Karaoke Growth!"<br />3. "A for Effort!"<br />4. "Practice Makes Perfect!"<br />5. "Karaoke Journey Begins!"<br />6. "Onward to Improvement!" |          |
+| **20+**   | *           | 1. "Keep Practicing!"<br />2. "Nice Try!"<br />3. "Room for Improvement!"<br />4. "Give it Another Go!"<br />5. "Almost There!"<br />6. "Don't Give Up!"             |          |
+| **40+**   | **          | 1. "Good Effort!"<br />2. "Getting Better!"<br />3. "Keep Going!"<br />4. "On the Right Track!"<br />5. "Improving!"<br />6. "Not Bad!"                              |          |
+| **60+**   | ***         | 1. "Well Done!"<br />2. "Solid Performance!"<br />3. "Nice Job!"<br />4. "Good Singing!"<br />5. "Keep It Up!"<br />6. "You're Improving!"                           |          |
+| **75+**   | ****        | 1. "Great Performance!"<br />2. "Impressive!"<br />3. "You're Almost There!"<br />4. "Fantastic Effort!"<br />5. "Well Sung!"<br />6. "Excellent!"                   |          |
+| **90+**   | *****       | 1. "Legendary Performance!"<br />2. "Unbelievably Amazing!"<br />3. "Karaoke Master!"<br />4. "Beyond Perfection!"<br />5. "Epic Brilliance!"<br />6. "Unmatched Talent!" |          |
