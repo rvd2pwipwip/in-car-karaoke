@@ -1,5 +1,11 @@
 # Player
 
+:::info
+
+See also [**Score Player**](../Scoring/Score%20Player.md) for scorable specific details
+
+:::
+
 ## Active State (Controls Display)
 
 ![Player](./img/player.png)

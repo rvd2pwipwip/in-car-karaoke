@@ -1,6 +1,6 @@
-# Passengers
+# Passenger
 
-![Passengers](./img/passengers.png)
+![Passenger](./img/passengers.png)
 
 |   # | Description                                                                                 |
 | --: | :------------------------------------------------------------------------------------------ |

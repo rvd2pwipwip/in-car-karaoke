@@ -1,5 +1,11 @@
 # Song Info
 
+:::info
+
+See also [**Scorable Song Info**](../Scoring/Scorable%20Song%20Info.md) for scorable specific details
+
+:::
+
 ![Song Info](./img/songInfo.png)
 
 |   # | Description                                                                                                                    |

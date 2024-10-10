@@ -74,13 +74,13 @@ View [Appendix C - Queue Flowcharts](./Appendix%20C%20-%20Queue%20Flowcharts.md)
 
 ## Selecting Song Items 
 
-Clicking on the tile of a song item brings its [Song Info](./Screen%20Descriptions/Song%20Info.md) screen with the options to Sing Now, Sing Next, or Sing Last along with related songs and lyrics. 
+Clicking on the tile of a song item brings its [Song Info](./Screen%20Descriptions/Song%20Info) screen with the options to Sing Now, Sing Next, or Sing Last along with related songs and lyrics. 
 
 Users can select Sing Now to immediately start the song playback on the player screen. 
 
 ## Empty Song Queue 
 
-The song queue is accessible from the [Player](./Screen%20Descriptions/Player.md) screen. There, users can click the Song Queue button to display its panel alongside the player and lyrics. At the top of the [Song Queue](./Screen%20Descriptions/Song%20Queue.md) panel, users can click Clear Queue to remove all songs. 
+The song queue is accessible from the [Player](./Screen%20Descriptions/Player) screen. There, users can click the Song Queue button to display its panel alongside the player and lyrics. At the top of the [Song Queue](./Screen%20Descriptions/Song%20Queue) panel, users can click Clear Queue to remove all songs. 
 
-In that situation, the player should display a [prompt](./Screen%20Descriptions/Player.md#empty-song-queue) to pick another song. 
+In that situation, the player should display a [prompt](./Screen%20Descriptions/Player#empty-song-queue) to pick another song. 
  

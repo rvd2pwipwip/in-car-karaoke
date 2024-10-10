@@ -10,8 +10,8 @@
 |   3 | More button, click to display more category content                                                                  |
 |     | **Song Card**                                                                                                          |
 |   4 | Song Card with thumbnail image, white title label and color (lavender) artist label, click to display [Song Info](./Song%20Info.md) screen |
-|     | **Party Mix Card**                                                                                                     |
-|   5 | Party Mix card with thumbnail image, click to display [Party Mix](./Party%20Mix.md) |
+|     | **Scorable Song Card**                                                                                                     |
+|   5 | Same as Song Card (above) with scorable song icon in top right corner, click to display [Scorable Song Info](../Scoring/Scorable%20Song%20Info.md) screen |
 
 <p>&nbsp;</p>
 

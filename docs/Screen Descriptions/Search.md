@@ -9,7 +9,7 @@
 |     | **Search**                                                  |
 |   1 | Search field, click to display on-screen keyboard           |
 |     | **Browse Library**                                          |
-|   2 | Category tabs, click to filter library by selected category |
+|   2 | Category tabs, click to filter library by selected category (Scoring only available with mic support) |
 |   3 | Subcategories display, scroll to view more subcategories    |
 |   4 | Subcategory tile, click to browse corresponding content     |
 

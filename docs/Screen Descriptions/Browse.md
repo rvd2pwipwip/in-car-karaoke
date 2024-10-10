@@ -2,14 +2,14 @@
 
 ## Songs
 
-![Songs](./img/browseSongs.png)
+![Search](./img/searchMain.png)
 
 |   # | Description                                                 |
 | --: | :---------------------------------------------------------- |
 |     | **Search**                                                  |
 |   1 | Search field, click to display on-screen keyboard           |
 |     | **Browse Library**                                          |
-|   2 | Category tabs, click to filter library by selected category |
+|   2 | Category tabs, click to filter library by selected category (Scoring only available with mic support) |
 |   3 | Subcategories display, scroll to view more subcategories    |
 |   4 | Genre tile, click to browse corresponding genre songs       |
 
@@ -30,6 +30,30 @@
 |   2 | Screen title with subcategory name                        |
 |   3 | Sort dropdown, click to select a different sorting option |
 |   4 | Song cards, scroll to view more                           |
+
+## Scoring
+
+![Scoring](./img/browseScoring.png)
+
+|   # | Description                                                 |
+| --: | :---------------------------------------------------------- |
+|     | **Search**                                                  |
+|   1 | Search field, click to display on-screen keyboard           |
+|     | **Browse Library**                                          |
+|   2 | Category tabs, click to filter library by selected category |
+|   3 | Subcategories display, scroll to view more subcategories    |
+|   4 | Genre tile, click to browse scoring songs by selected genre           |
+
+## Scoring Songs
+
+![Scoring Songs](./img/scoringSongsGrid.png)
+
+|   # | Description                                               |
+| --: | :-------------------------------------------------------- |
+|   1 | Back button, click to go back to previous screen          |
+|   2 | Screen title with subcategory name                        |
+|   3 | Sort dropdown, click to select a different sorting option |
+|   4 | Scoring Song cards, scroll to view more                           |
 
 ## Artists
 

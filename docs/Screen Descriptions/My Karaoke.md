@@ -14,6 +14,8 @@
 
 <p>&nbsp;</p>
 
+### Parental Controls
+
 :::info
 - Explicit songs will not be displayed when parental controls are ON unless they are in the **Sing it again** or **Favorites** categories where they will be displayed as a generic, unclickable, locked card without cover art nor labels.
 
