@@ -15,3 +15,11 @@ If the new current song queue position has a non-scorable song, the song playbac
 When the player is in sing mode because users have manually selected to sing a scorable song in sing mode, both scorable and non-scorable queued songs, are played in sing mode until users click the Score-Sing switch to score a scorable song.  
 
 The player doesn’t automatically switch to score mode when the queue reaches a scorable song if users had previously selected the sing mode. 
+
+:::warning
+
+### Score Player Song Queue
+
+Due to hardware limitations, the Song Queue automatically pauses the Score Player when it is expanded on landscape form factors.
+
+:::

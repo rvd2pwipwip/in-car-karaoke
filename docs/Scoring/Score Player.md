@@ -59,6 +59,10 @@ Clicking Restart-Previous has the usual effect on scorable songs but voids any s
 - After first 5 seconds: Reset current score if any, start countdown, restart current song
 - Within first 5 seconds: Void current score if any, go to previous queue position, start previous song (with countdown if scorable) 
 
-## Score Player Song Queue
+:::warning
 
-Due to hardware limitations, the Song Queue automatically pauses the Score Player when expanded on landscape form factors
+### Score Player Song Queue
+
+Due to hardware limitations, the Song Queue automatically pauses the Score Player when it is expanded on landscape form factors.
+
+:::
