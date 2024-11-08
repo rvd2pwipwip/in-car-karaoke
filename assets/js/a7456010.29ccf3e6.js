@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkin_car_karaoke=self.webpackChunkin_car_karaoke||[]).push([[1235],{8552:a=>{a.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);

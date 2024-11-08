@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkin_car_karaoke=self.webpackChunkin_car_karaoke||[]).push([[9647],{7121:(e,r,a)=>{a.r(r),a.d(r,{default:()=>i});a(6540);var s=a(4164),c=a(1003),n=a(7559),u=a(2831),k=a(781),t=a(4848);function i(e){return(0,t.jsx)(c.e3,{className:(0,s.A)(n.G.wrapper.docsPages),children:(0,t.jsx)(k.A,{children:(0,u.v)(e.route.routes)})})}}}]);
