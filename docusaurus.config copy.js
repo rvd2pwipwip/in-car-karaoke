@@ -16,7 +16,8 @@ const config = {
   url: 'https://rvd2pwipwip.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/in-car-karaoke/',
+  // Use environment variable to set baseUrl
+  baseUrl: process.env.NODE_ENV === 'production' ? '/in-car-karaoke/' : '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
